@@ -1,3 +1,5 @@
-omar walled switi
-Information technology
-game development 
+name:omar walled switi
+major:Information technology
+fav topic:game development 
+hobbies:play video games
+goals : create my own game 
